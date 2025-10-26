@@ -1,0 +1,130 @@
+/* === Resume Style for MBA Portfolio === */
+
+body {
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  background-color: #fafafa;
+  color: #222;
+}
+
+.resume-header {
+  text-align: center;
+  margin-top: 40px;
+  margin-bottom: 30px;
+}
+
+.resume-header h1 {
+  font-size: 2.2rem;
+  font-weight: 700;
+  margin-bottom: 5px;
+  color: #0d6efd;
+}
+
+.resume-header .subtitle {
+  font-size: 1.2rem;
+  color: #444;
+  margin-bottom: 10px;
+}
+
+.resume-header .contact {
+  font-size: 0.95rem;
+  color: #444;
+  margin-top: 8px;
+}
+
+.resume-header .contact a {
+  color: #0d6efd;
+  text-decoration: none;
+}
+
+.resume-header .contact a:hover {
+  text-decoration: underline;
+}
+
+.section-title {
+  font-weight: 700;
+  font-size: 1.2rem;
+  color: #0d6efd;
+  border-bottom: 2px solid #0d6efd;
+  margin-top: 35px;
+  margin-bottom: 15px;
+}
+
+.role {
+  display: flex;
+  justify-content: space-between;
+  font-weight: 600;
+}
+
+.meta {
+  color: #555;
+}
+
+ul.tight {
+  margin-top: 5px;
+  margin-bottom: 5px;
+  line-height: 1.5;
+}
+
+a {
+  color: #0d6efd;
+}
+
+/* ===== Page layout ===== */
+.page-columns .content { max-width: 900px; margin: 0 auto; }
+
+/* ===== Header ===== */
+.resume-header {
+  text-align: center; margin-top: 1rem; margin-bottom: 1.25rem;
+}
+.resume-header h1 { font-size: 2.4rem; letter-spacing: .02em; margin: 0; }
+.resume-header .subtitle { font-size: 1.15rem; color: #0d6efd; margin-top: .25rem; }
+.resume-header .contact {
+  display:flex; gap:.9rem; justify-content:center; flex-wrap:wrap;
+  margin-top:.6rem; font-size:.98rem; color:#6b7280;
+}
+.resume-header .contact span { display:flex; align-items:center; gap:.35rem; }
+
+/* ===== Section titles ===== */
+.section-title {
+  font-weight: 700; text-transform: uppercase; letter-spacing: .06em;
+  color:#374151; margin-top:1.6rem; margin-bottom:.6rem;
+  border-top: 3px solid #e5e7eb; padding-top:.6rem;
+}
+
+/* ===== Experience list ===== */
+.role {
+  display:grid; grid-template-columns: 1fr auto; gap:.5rem; align-items:baseline;
+  margin:.6rem 0 .25rem;
+}
+.role .where { font-weight:600; }
+.role .meta { color:#6b7280; font-size:.95rem; }
+ul.tight { margin:.2rem 0 1rem 1.2rem; }
+ul.tight li { margin:.15rem 0; }
+
+/* ===== Education block ===== */
+.edu-item { display:grid; grid-template-columns: 1fr auto; align-items:baseline; }
+.edu-item .where { font-weight:600; }
+.edu-item .meta { color:#6b7280; }
+
+/* ===== Skills “dotted” bars ===== */
+.skills-grid { display:grid; grid-template-columns: 1fr 1fr; gap:.6rem 1.2rem; }
+.skill {
+  display:grid; grid-template-columns: 1fr auto; gap:.6rem; align-items:center;
+}
+.skill .name { font-weight:500; }
+.skill .dots {
+  display:flex; gap:.22rem;
+}
+.skill .dot {
+  width:10px; height:10px; border-radius:999px; background:#d1d5db;
+}
+.skill .dot.f { background:#0d6efd; }
+
+/* ===== Achievements ===== */
+.achv { display:flex; gap:.6rem; margin:.3rem 0; }
+.achv .icon { font-size:1.1rem; }
+
+/* ===== Footer text ===== */
+.published-date { color:#6b7280; font-size:.9rem; margin:.2rem 0 1rem; }
+/* TEMP TEST */
+body { border-top: 6px solid magenta !important; }

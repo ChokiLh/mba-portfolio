@@ -1,0 +1,47 @@
+---
+title: ""          # hide default big title block
+page-title: "Choki Lhamo — MBA Portfolio"   # tab title
+format: html
+---
+
+<div class="resume-header">
+  <h1>Choki Lhamo</h1>
+  <p class="subtitle">MBA Portfolio</p>
+  <p class="contact">✉️ <a href="mailto:your.email@example.com">chokilha9@gmail.com</a> &nbsp;·&nbsp; 📍 Vancouver, BC</p>
+</div>
+
+
+## About
+I am MBA candidate in University Canada West with an international exposure in the fields of education, media, and community relations. My stay and job in Bhutan, Thailand, and Canada have gifted me a global perspective on leadership, collaboration, and problem-solving. The different cultures I interacted with in my academic and professional life have developed my flexibility, communication, and organization skills which in turn made me able to perform well in multi-cultural and interdisciplinary settings.
+
+I plan to use the knowledge and skills gained from my MBA studies to become an expert in strategic and analytical thinking so that I could better see how data-driven insights and inclusive management practices can together enhance operational efficiency. Besides, I would like to focus on the avenues through which innovation and ethical leadership can create sustainable values for both organizations and their communities.
+
+I want to put my learning process into practice to create fair systems that equips people, unite them in a better way, and eventually lead to an impact that is both social and organizational but is also meaningful.
+
+## Education
+**Master of Business Administration (MBA)**, University Canada West, Vancouver, BC *(2024–2026)*  
+- Focus: Strategic Management, Leadership, Digital Transformation, and HR Management
+
+**B.A. in International Development**, Mae Fah Luang University, Thailand *(2017–2021)*  
+- Coursework: Global Development, Policy Studies, Communication, Gender and Ethnic Studies  
+
+## Experience
+**Residential Facilities Supervisor**, Coquitlam, BC *(Present)*  
+- Coordinate maintenance and resident support for multiple housing facilities.  
+- Build communication and organization skills through day-to-day operations.
+
+**Junior Media Associate**, Humans of Thimphu, Bhutan *(2023)*  
+- Contributed to storytelling and social media campaigns highlighting community experiences.  
+- Collaborated with creative teams to plan content and manage schedules.
+
+**Foreign Language Instructor**, Chaiyaphum High School, Thailand *(2021–2023)*  
+- Designed lesson plans and delivered English instruction to classes of 30–40 students.  
+- Promoted student confidence through language clubs and interactive learning.
+
+## Skills
+- **Analytical:** Research, data organization, reporting  
+- **Business/Leadership:** Team supervision, project coordination, cross-cultural communication  
+- **Technical:** MS Excel, Google Workspace, Quarto/Markdown basics  
+- **Languages:** English, Dzongkha, Thai
+
+

@@ -1,0 +1,17 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Choki Lhamo — MBA Portfolio"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+
+format:
+  html:
+    theme: flatly
+    css: custom.scss
+    toc: false
+    anchor-sections: false
