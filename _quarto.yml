@@ -4,6 +4,10 @@ project:
 
 website:
   title: "Choki Lhamo — MBA Portfolio"
+  site-url: https://chokilh.github.io/mba-portfolio/
+  description: "MBA candidate at University Canada West. Facilities supervision, media & community engagement."
+  repo-url: https://github.com/chokilh/mba-portfolio
+  repo-actions: [source]
   navbar:
     left:
       - href: index.qmd
@@ -15,3 +19,9 @@ format:
     css: custom.scss
     toc: false
     anchor-sections: false
+    lang: en
+    smooth-scroll: true
+    include-in-header:
+      text: |
+        <meta name="robots" content="index,follow">
+        <meta name="theme-color" content="#0d6efd">
